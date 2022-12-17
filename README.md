@@ -1,11 +1,8 @@
 # TritonHTTP
 
-### HTTP Messages
-
-TritonHTTP follows the [general HTTP message format](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages). And it has some further specifications:
-
+### HTTP
 - HTTP version supported: `HTTP/1.1`
-- Request method supported: `GET`
+- Request method supported: GET
 - Response status supported:
   - `200 OK`
   - `400 Bad Request`
